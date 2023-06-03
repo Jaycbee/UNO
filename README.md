@@ -1,1 +1,1 @@
-A python implementation of a basic UNO game made for a final project (2023).
+A java implementation of basic command-line UNO game made for a final project (2023).
